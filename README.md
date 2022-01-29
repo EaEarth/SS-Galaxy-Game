@@ -4,3 +4,5 @@ This project is a java space shooting game called SS.Galaxy
 SS.Galaxy game is a shooting game where you adventure through the
 space with your spaceship. Your main objective is to destroy alien, meteor and
 enemy’s mothership that will appear along the way of your adventure
+
+you can find more about this project at report_boolean_plsGradeA.pdf
